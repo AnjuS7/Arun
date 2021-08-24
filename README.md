@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="20%" align="right" alt="Github" src="https://github.com/sarunkurup3/Arun_S/blob/main/Arun_git_pic.gif" />
 
 
 - 🔭 I come with 5+ years of experience as Software Developer in Test, my areas of experience are towards Functional, Automation and Datawarehouse
