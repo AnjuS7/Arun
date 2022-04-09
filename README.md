@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-<img width="30%" align="right" alt="Github" src="https://github.com/AnjuS7/Arun/Arun_S/blob/master/Arun_Web3.gif" />
+<img width="30%" align="right" alt="Github" src="https://github.com/AnjuS7/Arun/blob/23332fdbc8260978c6d5438406e755ef2d85dcb6/anju%20github.gif" />
 
 
 - 🔭 I come with 2.4+ years of experience as Software Developer in Test, my areas of experience are towards Functional, Automation and Datawarehouse
