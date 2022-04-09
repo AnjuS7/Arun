@@ -1,7 +1,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sarunkurup3.sarunkurup3)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AnjuS7.AnjuS7)
 
 </p>
 <div size='20px'> Hi! I'm Anju. Thank You for taking the time to view my GitHub Profile
@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-<img width="30%" align="right" alt="Github" src="https://github.com/AnjuS7/Arun/blob/23332fdbc8260978c6d5438406e755ef2d85dcb6/anju%20github.gif" />
+<img width="25%" align="right" alt="Github" src="https://github.com/AnjuS7/Arun/blob/23332fdbc8260978c6d5438406e755ef2d85dcb6/anju%20github.gif" />
 
 
 - 🔭 I come with 2.4+ years of experience as Software Developer in Test, my areas of experience are towards Functional, Automation and Datawarehouse
