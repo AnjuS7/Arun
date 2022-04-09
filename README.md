@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sarunkurup3.sarunkurup3)
 
 </p>
-<div size='20px'> Hi! I'm Arun. Thank You for taking the time to view my GitHub Profile
+<div size='20px'> Hi! I'm Anju. Thank You for taking the time to view my GitHub Profile
 </div>
 
 <h2> About Me </h2>
@@ -12,7 +12,7 @@
 <img width="30%" align="right" alt="Github" src="https://github.com/sarunkurup3/Arun_S/blob/master/Arun_Web3.gif" />
 
 
-- 🔭 I come with 5+ years of experience as Software Developer in Test, my areas of experience are towards Functional, Automation and Datawarehouse
+- 🔭 I come with 2.4+ years of experience as Software Developer in Test, my areas of experience are towards Functional, Automation and Datawarehouse
 
 - 🌱 I am a strong believer in equality amongst all of us and one can make this world a better place through a small act of kindness 😊
 
